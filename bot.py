@@ -3,7 +3,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Replace 'YOUR_TOKEN' with your bot's API token
-TOKEN = '7572493486:AAE8zgQtyFrx4cd7lvU1wa5sNUpiI6WbXsk'
+TOKEN = '7572493486:AAGmdrhwlgoZ9T_CCHPPxslPQgokggwTFRo'
 OWNER_CHAT_ID = '6258915779'  # Owner's chat ID to receive messages
 
 # List of images
