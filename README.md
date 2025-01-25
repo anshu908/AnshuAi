@@ -28,9 +28,9 @@
 
 ## Features
 
-- **Feature 1**: [Brief explanation]
-- **Feature 2**: [Brief explanation]
-- **Feature 3**: [Brief explanation]
+- **Feature 1**: [you can easily calculate loan.]
+- **Feature 2**: [you can easily calculate your sip ( systmetic investment plan ).]
+- **Feature 3**: [you can easily calculate currency of all in the world.]
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
