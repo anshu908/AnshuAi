@@ -12,7 +12,7 @@ from pymongo import MongoClient
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # Apna bot token daalo na meri jaan 
-TELEGRAM_BOT_TOKEN = "8077840807:AAEjwYQJ3N3vzLnYfaaxJty9yOternFcvXM"
+TELEGRAM_BOT_TOKEN = "7219136090:AAH4oMPuoarcPzr5OkcbkpoP1vCMazPUtbs"
 IMGBB_API_KEY = "d6cb513ea3d93fa748b4c0d3965df795"
 IMGBB_UPLOAD_URL = "https://api.imgbb.com/1/upload"
 
